@@ -157,7 +157,7 @@ localplay.db-journal
 backend/cookies.txt
 backend/venv/
 push.sh
-LocalPlay-OSS.zip
+localplay.zip
 
 # Node.js
 node_modules/
